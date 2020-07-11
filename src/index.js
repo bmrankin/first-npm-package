@@ -4,9 +4,9 @@ const water = (str) => {
 }
 
 // Required single
-const fire = require('./fire')
+import fire from './fire'
 
 // Required folder
-const utils = require('./utils')
+import * as utils from './utils'
 
-module.exports = { fire, water, utils }
+export { fire, water, utils }
