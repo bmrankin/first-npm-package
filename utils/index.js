@@ -1,1 +1,0 @@
-exports.delay = require('./delay')
