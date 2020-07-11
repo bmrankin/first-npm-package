@@ -1,0 +1,12 @@
+{
+  "name": "@bmrankin/first-npm-package",
+  "version": "0.0.1",
+  "description": "My first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Rankin",
+  "email": "bryan@bryanrankin.com",
+  "license": "ISC"
+}
